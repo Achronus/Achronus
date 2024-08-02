@@ -7,12 +7,10 @@ I'm a Software Developer based in England :gb: who loves building open-source pr
 
 You'll often find me building systems in Python that improve my workflow and reduce development time. Why build a project in months, when you can do it in a couple of weeks?! I adore simplicity over unnecessary complexity.
 
-![My GitHub stats](https://github-readme-stats.vercel.app/api?username=Achronus&show_icons=true&theme=dracula&hide=contribs&rank_icon=github&hide_border=true&line_height=30) 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Achronus&theme=dracula&hide_border=true)
 
 ## 🏃‍♂️ Active Projects
 
-[![Portfolio Card](https://github-readme-stats.vercel.app/api/pin/?username=Achronus&repo=achronus.dev&bg_color=0D1117&text_color=8d96a0&title_color=4493f8)](https://github.com/Achronus/Zentra) [![Zentra Card](https://github-readme-stats.vercel.app/api/pin/?username=Achronus&repo=Zentra&bg_color=0D1117&text_color=8d96a0&title_color=4493f8)](https://github.com/Achronus/Zentra)
+[![Portfolio Card](https://github-readme-stats.vercel.app/api/pin/?username=Achronus&repo=achronus.dev&bg_color=0D1117&text_color=8d96a0&title_color=4493f8&border_color=30363d)](https://github.com/Achronus/Zentra) [![Zentra Card](https://github-readme-stats.vercel.app/api/pin/?username=Achronus&repo=Zentra&bg_color=0D1117&text_color=8d96a0&title_color=4493f8&border_color=30363d)](https://github.com/Achronus/Zentra)
 
 
 ## 🚀 Tech Stack
@@ -38,3 +36,7 @@ You'll often find me building systems in Python that improve my workflow and red
     <img width="50" src="icons/sqlite.svg" alt="SQLite" title="SQLite" style="margin-right: 10px; margin-bottom: 20px;" />
     <img width="50" src="icons/docker.svg" alt="Docker" title="Docker" style="margin-right: 10px; margin-bottom: 20px;" />
 </div>
+
+## 📊 GitHub Stats
+
+![My GitHub stats](https://github-readme-stats.vercel.app/api?username=Achronus&show_icons=true&theme=dracula&hide=contribs&rank_icon=github&hide_border=true&line_height=30) ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Achronus&theme=dracula&hide_border=true)
