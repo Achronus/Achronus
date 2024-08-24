@@ -3,12 +3,12 @@
 </p>
 
 
-I'm a Software Developer based in England :gb: who loves building open-source projects that solve unique problems 🤟
+I'm a Software Engineer based in England :gb: who loves building open-source projects that solve unique problems 🤟
 
 You'll often find me building systems in Python that improve my workflow and reduce development time. Why build a project in months, when you can do it in a couple of weeks?! I adore simplicity over unnecessary complexity.
 
 
-## 🏃‍♂️ Active Projects
+## 🏠 Main Projects
 
 [![Portfolio Card](https://github-readme-stats.vercel.app/api/pin/?username=Achronus&repo=achronus.dev&bg_color=0D1117&text_color=8d96a0&title_color=4493f8&border_color=30363d)](https://github.com/Achronus/achronus.dev) [![Zentra Card](https://github-readme-stats.vercel.app/api/pin/?username=Achronus&repo=Zentra&bg_color=0D1117&text_color=8d96a0&title_color=4493f8&border_color=30363d)](https://github.com/Achronus/Zentra)
 
