@@ -2,11 +2,9 @@
   <img src="banner.gif" alt="Hi, I'm Ryan 👋">
 </p>
 
+I'm a Research Software Engineer based in England :gb: who loves building open-source projects that solve unique problems 🤟
 
-I'm a Software Engineer based in England :gb: who loves building open-source projects that solve unique problems 🤟
-
-You'll often find me building systems in Python that improve my workflow and reduce development time. Why build a project in months, when you can do it in a couple of weeks?! I adore simplicity over unnecessary complexity.
-
+You'll often find programming in Python, either exploring data or building tools to improve my workflow.
 
 ## 🏠 Main Projects
 
@@ -15,8 +13,13 @@ You'll often find me building systems in Python that improve my workflow and red
 
 ## 🚀 Tech Stack
 
+<!-- https://techicons.dev/ -->
 <div align="center">
 	<img width="50" src="https://user-images.githubusercontent.com/25181517/183423507-c056a6f9-1ba8-4312-a350-19bcbc5a8697.png" alt="Python" title="Python" style="margin-right: 10px; margin-bottom: 20px;" />
+	<img width="50" src="icons/numpy.svg" alt="Numpy" title="NumPy" style="margin-right: 10px; margin-bottom: 20px;" />
+	<img width="50" src="icons/pandas.svg" alt="Pandas" title="Pandas" style="margin-right: 10px; margin-bottom: 20px;" />
+	<img width="50" src="icons/matplotlib.svg" alt="Matplotlib" title="Matplotlib" style="margin-right: 10px; margin-bottom: 20px;" />
+	<img width="50" src="icons/jupyter.svg" alt="Jupyter" title="Jupyter" style="margin-right: 10px; margin-bottom: 20px;" />
     <img width="50" src="icons/pytest.svg" alt="Pytest" title="pytest" style="margin-right: 10px; margin-bottom: 20px;" />
     <img width="50" src="icons/fastapi.svg" alt="fastapi" title="FastAPI" style="margin-right: 10px; margin-bottom: 20px;" />
 </div>
@@ -35,6 +38,7 @@ You'll often find me building systems in Python that improve my workflow and red
 	<img width="50" src="https://user-images.githubusercontent.com/25181517/192108891-d86b6220-e232-423a-bf5f-90903e6887c3.png" alt="Visual Studio Code" title="Visual Studio Code" style="margin-right: 10px; margin-bottom: 20px;" />
     <img width="50" src="icons/sqlite.svg" alt="SQLite" title="SQLite" style="margin-right: 10px; margin-bottom: 20px;" />
     <img width="50" src="icons/docker.svg" alt="Docker" title="Docker" style="margin-right: 10px; margin-bottom: 20px;" />
+	<img width="50" src="icons/postman.svg" alt="Postman" title="Postman" style="margin-right: 10px; margin-bottom: 20px;" />
 </div>
 
 ## 📊 GitHub Stats
