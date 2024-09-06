@@ -1,6 +1,6 @@
 <!-- https://codesandbox.io/p/sandbox/github-profile-nd4df7 -->
 <p align="center">
-  <img src="banner.gif" alt="Hi, I'm Ryan 👋">
+  <img src="banner2.gif" alt="Hi, I'm Ryan 👋">
 </p>
 
 I'm a Research Software Engineer, Data Nerd 🤓 and Machine Learning enthusiast based in England :gb:. I love building open-source projects that solve unique problems 🤟
