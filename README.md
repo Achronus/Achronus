@@ -1,10 +1,11 @@
+<!-- https://codesandbox.io/p/sandbox/github-profile-nd4df7 -->
 <p align="center">
   <img src="banner.gif" alt="Hi, I'm Ryan 👋">
 </p>
 
-I'm a Research Software Engineer based in England :gb: who loves building open-source projects that solve unique problems 🤟
+I'm a Research Software Engineer, Data Nerd 🤓 and Machine Learning enthusiast based in England :gb:. I love building open-source projects that solve unique problems 🤟
 
-You'll often find programming in Python, either exploring data or building tools to improve my workflow.
+You'll often find me programming in Python, either exploring data or building tools and APIs to interact with it.
 
 ## 🏠 Main Projects
 
