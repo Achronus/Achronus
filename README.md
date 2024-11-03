@@ -5,7 +5,7 @@
 
 I'm a Research Software Engineer, Data Nerd 🤓 and Machine Learning enthusiast based in England :gb:. I love building open-source projects that solve unique problems 🤟
 
-You'll often find me programming in Python, either exploring data or building tools and APIs to interact with it.
+You'll often find me programming in Python, toying with Reinforcement Learning models, developing my robotics knowledge, exploring data or building new tools and APIs.
 
 ## 🏠 Main Projects
 
@@ -20,9 +20,9 @@ You'll often find me programming in Python, either exploring data or building to
 	<img width="50" src="icons/numpy.svg" alt="Numpy" title="NumPy" style="margin-right: 10px; margin-bottom: 20px;" />
 	<img width="50" src="icons/pandas.svg" alt="Pandas" title="Pandas" style="margin-right: 10px; margin-bottom: 20px;" />
 	<img width="50" src="icons/matplotlib.svg" alt="Matplotlib" title="Matplotlib" style="margin-right: 10px; margin-bottom: 20px;" />
-	<img width="50" src="icons/jupyter.svg" alt="Jupyter" title="Jupyter" style="margin-right: 10px; margin-bottom: 20px;" />
-    <img width="50" src="icons/pytest.svg" alt="Pytest" title="pytest" style="margin-right: 10px; margin-bottom: 20px;" />
-    <img width="50" src="icons/fastapi.svg" alt="fastapi" title="FastAPI" style="margin-right: 10px; margin-bottom: 20px;" />
+	<img width="50" src="icons/pytorch.svg" alt="PyTorch" title="PyTorch" style="margin-right: 10px; margin-bottom: 20px;" />
+	<img width="50" src="icons/pytest.svg" alt="Pytest" title="pytest" style="margin-right: 10px; margin-bottom: 20px;" />
+	<img width="50" src="icons/fastapi.svg" alt="fastapi" title="FastAPI" style="margin-right: 10px; margin-bottom: 20px;" />
 </div>
 
 <div align="center">
@@ -37,9 +37,10 @@ You'll often find me programming in Python, either exploring data or building to
 
 <div align="center">
 	<img width="50" src="https://user-images.githubusercontent.com/25181517/192108891-d86b6220-e232-423a-bf5f-90903e6887c3.png" alt="Visual Studio Code" title="Visual Studio Code" style="margin-right: 10px; margin-bottom: 20px;" />
-    <img width="50" src="icons/sqlite.svg" alt="SQLite" title="SQLite" style="margin-right: 10px; margin-bottom: 20px;" />
-    <img width="50" src="icons/docker.svg" alt="Docker" title="Docker" style="margin-right: 10px; margin-bottom: 20px;" />
+	<img width="50" src="icons/sqlite.svg" alt="SQLite" title="SQLite" style="margin-right: 10px; margin-bottom: 20px;" />
+	<img width="50" src="icons/docker.svg" alt="Docker" title="Docker" style="margin-right: 10px; margin-bottom: 20px;" />
 	<img width="50" src="icons/postman.svg" alt="Postman" title="Postman" style="margin-right: 10px; margin-bottom: 20px;" />
+	<img width="50" src="icons/jupyter.svg" alt="Jupyter" title="Jupyter" style="margin-right: 10px; margin-bottom: 20px;" />
 </div>
 
 ## 📊 GitHub Stats
