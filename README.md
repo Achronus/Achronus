@@ -11,6 +11,8 @@ You'll often find me programming in Python, toying with Reinforcement Learning m
 
 [![Portfolio Card](https://github-readme-stats.vercel.app/api/pin/?username=Achronus&repo=achronus.dev&bg_color=0D1117&text_color=8d96a0&title_color=4493f8&border_color=30363d)](https://github.com/Achronus/achronus.dev) [![Zentra Card](https://github-readme-stats.vercel.app/api/pin/?username=Achronus&repo=Zentra&bg_color=0D1117&text_color=8d96a0&title_color=4493f8&border_color=30363d)](https://github.com/Achronus/Zentra)
 
+[![Velora Card](https://github-readme-stats.vercel.app/api/pin/?username=Achronus&repo=velora&bg_color=0D1117&text_color=8d96a0&title_color=4493f8&border_color=30363d)](https://github.com/Achronus/velora)
+
 
 ## 🚀 Tech Stack
 
