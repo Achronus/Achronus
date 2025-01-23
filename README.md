@@ -4,9 +4,9 @@ A Python Software Engineer and Deep Learning Researcher based in England :gb:. I
 
 You'll often find me programming in Python, writing a new blog post on Medium, exploring state-of-the-art ML models or building tools and APIs to interact with them.
 
-[![Website](https://img.shields.io/badge/Website-000000?style=for-the-badge&logo=google-chrome&logoColor=white)](https://yourwebsite.com)
+[![Website](https://img.shields.io/badge/Website-000000?style=for-the-badge&logo=google-chrome&logoColor=white)](https://achronus.dev)
 [![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@achronus)
-[![LinkedIn](https://custom-icon-badges.demolab.com/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin-white&logoColor=white)](https://www.linkedin.com/)
+[![LinkedIn](https://custom-icon-badges.demolab.com/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin-white&logoColor=white)](https://www.linkedin.com/in/ryan-partridge-08b7118b/)
 
 ## 🚀 Tech Stack
 
