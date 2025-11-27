@@ -1,6 +1,6 @@
 # Hi 👋🏻, I'm Ryan,
 
-A Computer Scientist based in England :gb:. I build open-source projects focusing on cybersecurity 🤟
+A Computer Scientist based in England :gb:. I build open-source research projects focusing on Reinforcement Learning and Deep Learning techniques targetting robotics and cybersecurity 🤟
 
 [![Website](https://img.shields.io/badge/Website-000000?style=for-the-badge&logo=google-chrome&logoColor=white)](https://achronus.dev)
 [![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@achronus)
